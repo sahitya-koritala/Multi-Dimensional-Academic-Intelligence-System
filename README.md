@@ -33,6 +33,29 @@ Each student has:
 - Attendance (0–100)
 - Assignment score (0–50)
 
+## Extra Features
+- Performance Index is calculated using marks, assignment, and attendance
+- Number of students depends on last digit of roll number
+- Added a simple Pass/Fail column based on marks
+
+## Output
+
+The program shows:
+
+- Student data in table format
+- Categories of students
+- Statistical values
+- Final system result like:
+    - Stable Academic System
+    - Moderate Performance
+    - Critical Attention Required
+
+## Learning
+- Learned how to use Pandas and NumPy
+- Understood how to calculate statistics
+- Learned to use functions and conditions
+- Got idea about analyzing real data
+
 ## How to Run
 1. Install required libraries:
 pip install pandas numpy
